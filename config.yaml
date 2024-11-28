@@ -19,7 +19,7 @@ params:
 
   socialIcons: # optional
     - name: "Github"
-      url: "https://github.com"
+      url: "https://github.com/AgileBuckle"
     - name: "Blog"
       url: "https://pixelpress.substack.com"
 
