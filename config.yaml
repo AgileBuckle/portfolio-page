@@ -16,9 +16,6 @@ params:
   profileMode:
     enabled: true
     imageUrl: "/largelogo.png"
-    buttons:
-      - name: Github
-        url: "https://github.com"
 
   socialIcons: # optional
     - name: "Github"
