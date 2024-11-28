@@ -1,0 +1,28 @@
+baseURL: https://agilebuckle.com/
+languageCode: en
+title: AgileBuckle
+theme: ["PaperMod"]
+
+languages:
+  en:
+    disabled: false
+    languageCode: ""
+    languageDirection: ""
+    languageName: ""
+    title: ""
+    weight: 0
+
+params:
+  profileMode:
+    enabled: true
+    imageUrl: "/largelogo.png"
+    buttons:
+      - name: Github
+        url: "https://github.com"
+
+  socialIcons: # optional
+    - name: "Github"
+      url: "https://github.com"
+    - name: "Blog"
+      url: "https://pixelpress.substack.com"
+
