@@ -1,6 +1,6 @@
 baseURL: https://agilebuckle.com
 languageCode: en
-title: 'AgileBuckle'
+title: "<AgileBuckle>"
 theme: ["PaperMod"]
 
 languages:
