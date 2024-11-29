@@ -22,4 +22,6 @@ params:
       url: "https://github.com/AgileBuckle"
     - name: "Blog"
       url: "https://pixelpress.substack.com"
+    - name: "Email"
+      url: "mailto:contact@agilebuckle.com"
 
