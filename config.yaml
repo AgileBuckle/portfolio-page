@@ -21,8 +21,6 @@ params:
   socialIcons: # optional
     - name: "Github"
       url: "https://github.com/AgileBuckle"
-    - name: "Blog"
-      url: "https://pixelpress.substack.com"
     - name: "Email"
       url: "mailto:contact@agilebuckle.com"
 
