@@ -15,7 +15,7 @@ languages:
 params:
   profileMode:
     enabled: true
-    title: AgileBuckle
+    title: "AgileBuckle"
     imageUrl: "/largelogo.png"
 
   socialIcons: # optional
