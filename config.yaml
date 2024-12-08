@@ -19,7 +19,7 @@ params:
     imageUrl: "/largelogo.png"
     buttons:
       - name: Contact Form
-        url: "/content/contact.md"
+        url: "/content/form.md"
 
   socialIcons: # optional
     - name: "Github"
