@@ -16,7 +16,7 @@ params:
   profileMode:
     enabled: true
     title: "AgileBuckle"
-    imageUrl: "/agilesanslogo.png"
+    imageUrl: "/agilesanslarge.png"
 
   socialIcons: # optional
     - name: "Github"
