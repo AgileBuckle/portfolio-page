@@ -5,4 +5,4 @@ draft: false
 languageCode: "en-us"
 ---
 
-[History of Fonts Slideshow](slides.agilebuckle.com/historyoffonts)
+[History of Fonts Slideshow](https://slides.agilebuckle.com/historyoffonts/#/)
