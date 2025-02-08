@@ -17,6 +17,9 @@ params:
     enabled: true
     title: "AgileBuckle"
     imageUrl: "/agilesanslogo.png"
+    buttons:
+      - name: Agile Sans
+        url: "https://github.com/AgileBuckle/agile-sans"
 
   socialIcons: # optional
     - name: "Github"
