@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on </title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Feb 2025 10:54:15 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slide Directory</title>
+      <link>http://localhost:1313/posts/slidedirectory/</link>
+      <pubDate>Sat, 08 Feb 2025 10:54:15 -0500</pubDate>
+      <guid>http://localhost:1313/posts/slidedirectory/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;slides.agilebuckle.com/historyoffonts&#34;&gt;History of Fonts Slideshow&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

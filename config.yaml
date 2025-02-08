@@ -6,7 +6,7 @@ theme: ["PaperMod"]
 languages:
   en:
     disabled: false
-    languageCode: ""
+    languageCode: "en-us"
     languageDirection: ""
     languageName: ""
     title: ""
