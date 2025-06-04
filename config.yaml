@@ -26,3 +26,5 @@ params:
       url: "https://github.com/AgileBuckle"
     - name: "Email"
       url: "mailto:contact@agilebuckle.com"
+
+<a rel="me" href="https://mastodon.social/@agilebuckle">Mastodon</a>
