@@ -3,8 +3,6 @@ languageCode: en
 title: 'AgileBuckle'
 theme: ["PaperMod"]
 
-<a rel="me" href="https://mastodon.social/@agilebuckle">Mastodon</a>
-
 languages:
   en:
     disabled: false
@@ -28,3 +26,6 @@ params:
       url: "https://github.com/AgileBuckle"
     - name: "Email"
       url: "mailto:contact@agilebuckle.com"
+  assets:
+    disableFingerprinting: true
+  customHead: true
