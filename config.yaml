@@ -28,6 +28,8 @@ params:
       url: "mailto:contact@agilebuckle.com"
     - name: "Mastodon"
       url: "https://mastodon.social/@agilebuckle"
+    - name: "GoToSocial"
+      url: "https://gts.agilebuckle.dev/@agile"
 
   assets:
     disableFingerprinting: true
