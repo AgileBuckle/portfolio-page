@@ -30,6 +30,8 @@ params:
       url: "https://mastodon.social/@agilebuckle"
     - name: "GoToSocial"
       url: "https://gts.agilebuckle.dev/@agile"
+    - name: "Pixelfed"
+      url: "https://pixelfed.social/Agile"
 
   assets:
     disableFingerprinting: true
