@@ -27,7 +27,7 @@ params:
     - name: "Email"
       url: "mailto:contact@agilebuckle.com"
     - name: "Mastodon"
-      url: "https://mastodon.social/@agilebuckle"
+      url: "https://wehavecookies.social/@agile"
     - name: "Pixelfed"
       url: "https://pixelfed.social/Agile"
 
