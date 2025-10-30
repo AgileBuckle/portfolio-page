@@ -20,6 +20,8 @@ params:
     buttons:
       - name: Agile Sans
         url: "https://github.com/AgileBuckle/agile-sans"
+      - name: Blog
+        url: "https://blog.agilebuckle.com"
 
   socialIcons: # optional
     - name: "Github"
