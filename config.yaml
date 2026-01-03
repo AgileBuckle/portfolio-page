@@ -32,6 +32,8 @@ params:
       url: "https://wehavecookies.social/@agile"
     - name: "Pixelfed"
       url: "https://pixelfed.social/Agile"
+    - name: "Sharkey"
+      url: "https://federation.network/@agile"
 
   assets:
     disableFingerprinting: true
