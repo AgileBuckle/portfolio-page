@@ -35,7 +35,7 @@ params:
     - name: "Sharkey"
       url: "https://federation.network/@agile"
     - name: "Vernissage"
-      url: " https://vernissage.photos/@Agile:
+      url: " https://vernissage.photos/@Agile"
 
   assets:
     disableFingerprinting: true
