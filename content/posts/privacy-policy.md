@@ -7,45 +7,59 @@ languageCode: "en-us"
 
 **Effective Date:** 2-7-2026
 
-This phone service is operated for personal use only. Your privacy is important, and this policy explains what information is received and how it is handled.
+This Privacy Policy explains how information is handled for the personal messaging and phone service, which is operated by a sole proprietor for personal, low-volume communication purposes only.
 
 ### Information Collected
 
-This service does **not** actively collect, store, or track personal data.
+This service does **not** actively collect personal data.
 
-The only information that may be received is what is automatically provided through **Caller ID**, which can include:
+The only information that may be received is what is automatically provided as part of standard phone or SMS delivery, which may include:
 
-* Incoming phone number
-* Caller name (if supplied by the caller’s carrier)
+* Phone number
+* Caller ID name (if provided by the carrier)
+* Message content sent by the user
+* Basic message metadata required for delivery (such as timestamps)
 
-No additional data is collected beyond what is delivered as part of a normal phone call.
+No additional personal information is requested, collected, or tracked.
 
-### How Information Is Used
+### Use of Information
 
-Caller ID information is used solely to:
+Any information received is used solely to:
 
-* Identify incoming calls
-* Decide whether to answer or return a call
+* Send and receive person-to-person messages
+* Respond to inbound communications
+* Operate the phone and messaging service as intended
 
-It is **not** used for analytics, marketing, profiling, or monitoring.
+Information is **not** used for marketing, analytics, profiling, advertising, or automated decision-making.
 
 ### Data Sharing
 
-Caller ID information is **never shared** with anyone, under any circumstances.
-It is not sold, transferred, published, or provided to third parties—ever.
+Information is **never sold, shared, rented, or disclosed** to third parties for any purpose.
 
-### Data Storage
+The only exception is the use of third-party telecommunications providers (such as Twilio) that are necessary to deliver calls and messages. These providers process information only to enable message delivery and are governed by their own privacy and security policies.
 
-Caller ID information is not stored long-term or maintained in a database. Any information visible during or immediately after a call is incidental to the operation of the phone service.
+### Data Retention
 
-### Third-Party Services
+Information is not retained long-term or stored in a separate database. Any data that exists is incidental to normal device, carrier, or service operation.
 
-This service relies on standard telecommunications providers to function. Their handling of data is governed by their own privacy policies.
+### User Choices
+
+You may opt out of receiving SMS messages at any time asking me to stop.
+For help or additional information, reply asking for help.
+
+### Security
+
+Reasonable measures are taken to prevent unauthorized access to communications within the limits of a personal-use service.
+
+### Children’s Privacy
+
+This service is not directed to children under the age of 13 and does not knowingly collect information from children.
 
 ### Changes to This Policy
 
-If this service changes in a way that affects privacy, this policy will be updated accordingly.
+This Privacy Policy may be updated at any time. Continued use of the service constitutes acceptance of any changes.
 
 ### Contact
 
-If you have questions about this privacy policy, you may contact the owner of this service directly via email at privacy@agilebuckle.com
+If you have questions about this Privacy Policy, you may contact:
+privacy@agilebuckle.com
