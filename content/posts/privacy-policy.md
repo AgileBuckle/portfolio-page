@@ -5,8 +5,6 @@ draft: false
 languageCode: "en-us"
 ---
 
-## Privacy Policy
-
 **Effective Date:** 2-7-2026
 
 This phone service is operated for personal use only. Your privacy is important, and this policy explains what information is received and how it is handled.
@@ -50,4 +48,4 @@ If this service changes in a way that affects privacy, this policy will be updat
 
 ### Contact
 
-If you have questions about this privacy policy, you may contact the owner of this service directly via email at (privacy@agilebuckle.com)[mailto:privacy@agilebuckle.com]
+If you have questions about this privacy policy, you may contact the owner of this service directly via email at privacy@agilebuckle.com
