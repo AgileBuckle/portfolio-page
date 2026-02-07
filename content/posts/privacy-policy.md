@@ -5,13 +5,9 @@ draft: false
 languageCode: "en-us"
 ---
 
-Here’s a simple, clear privacy policy suitable for a **personal-use phone service**. You can copy and paste this and adjust names or dates as needed.
-
----
-
 ## Privacy Policy
 
-**Effective Date:** [Insert date]
+**Effective Date:** 2-7-2026
 
 This phone service is operated for personal use only. Your privacy is important, and this policy explains what information is received and how it is handled.
 
@@ -54,12 +50,4 @@ If this service changes in a way that affects privacy, this policy will be updat
 
 ### Contact
 
-If you have questions about this privacy policy, you may contact the owner of this service directly.
-
----
-
-If you want, I can:
-
-* Make it **more formal or more casual**
-* Adapt it for posting on a **website or GitHub**
-* Add a **jurisdiction-friendly disclaimer** (U.S.-only, GDPR-safe wording, etc.)
+If you have questions about this privacy policy, you may contact the owner of this service directly via email at (privacy@agilebuckle.com)[mailto:privacy@agilebuckle.com]
