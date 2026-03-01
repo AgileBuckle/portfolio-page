@@ -34,8 +34,6 @@ params:
       url: "https://pixelfed.social/Agile"
     - name: "Sharkey"
       url: "https://federation.network/@agile"
-    - name: "Vernissage"
-      url: " https://vernissage.photos/@Agile"
     - name: "Bluesky"
       url: "https://bsky.app/profile/agilebuckle.com"
 
