@@ -22,6 +22,8 @@ params:
         url: "https://github.com/AgileBuckle/agile-sans"
       - name: Blog
         url: "https://blog.agilebuckle.com"
+      - name: Things I Clicked
+        url: "https://thingsiclicked.com"
 
   socialIcons: # optional
     - name: "Github"
@@ -32,8 +34,6 @@ params:
       url: "https://wehavecookies.social/@agile"
     - name: "Pixelfed"
       url: "https://pixelfed.social/Agile"
-    - name: "Sharkey"
-      url: "https://federation.network/@agile"
     - name: "Bluesky"
       url: "https://bsky.app/profile/agilebuckle.com"
 
